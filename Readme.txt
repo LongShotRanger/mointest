@@ -1,4 +1,4 @@
-Website Name README
+Moin farooqui README
 ===================
 
 Welcome to the moin Farooqui project! This README file will provide you with important information about the project, including how to set it up and run it locally.
